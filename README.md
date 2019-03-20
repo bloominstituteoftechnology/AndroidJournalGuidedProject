@@ -3,4 +3,5 @@
 ## Project Contirbutors
 Chance Payne
 Spencer Stock
+Shunsuke Akagi
 Gordon Titman
