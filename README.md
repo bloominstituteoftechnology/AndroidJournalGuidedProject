@@ -1,4 +1,5 @@
 # AndroidJournalGuidedProject
 
-## Project Contirbutors
+## Project Contributors
 Chance Payne
+Cody Harmon
