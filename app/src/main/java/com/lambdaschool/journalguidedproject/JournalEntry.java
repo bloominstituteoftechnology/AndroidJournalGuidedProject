@@ -54,10 +54,6 @@ public class JournalEntry implements Serializable {
         }
     }
 
-    boolean areEqual(JournalEntry a) {
-        return this.id == a.id && this.getDayRating() == a.getDayRating();
-    }
-
     // converting our object into a csv string that we can handle in a constructor
     String toCsvString() {
         return String.format("%d,%s,%d,%s,%s",
